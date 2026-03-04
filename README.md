@@ -3,6 +3,10 @@
 SismoSafe è un sistema embedded progettato per rilevare vibrazioni e generare automaticamente un’allerta.
 Il sistema è basato su un’architettura distribuita composta da due nodi STM32 che collaborano tra loro per monitorare l’ambiente e reagire in caso di movimento anomalo.
 
+## 🎥 Project Presentation Video
+
+[![Watch the presentation video](thumbnail_video.png)](video_presentazione.mp4)
+
 Click on the image above to watch the project presentation.
 
 ### Punti principali del progetto
