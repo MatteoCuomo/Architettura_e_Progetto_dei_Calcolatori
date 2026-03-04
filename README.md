@@ -31,3 +31,7 @@ Project developed for the course **Architettura e Progetto dei Calcolatori**
 University of Naples Federico II  
 Academic Year 2024/2025  
 Professor: Nicola Mazzocca
+
+## License
+
+This project is licensed under the MIT License.
